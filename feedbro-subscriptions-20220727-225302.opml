@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Local Newspapers" text="Local Newspapers">
+      <outline text="The Advertiser-Tribune, Tiffin OH" title="The Advertiser-Tribune, Tiffin OH" type="rss" 
+            xmlUrl="https://www.facebook.com/AdvertiserTribune" htmlUrl="https://www.facebook.com/AdvertiserTribune" scanDelay="1"/>
+      <outline text="TiffinOhio.net" title="TiffinOhio.net" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinOhioNews" htmlUrl="https://www.facebook.com/TiffinOhioNews" maxItems="2000"/>
+  </outline>
+  <outline title="Icecream Places" text="Icecream Places">
+  </outline>
+  <outline title="Restaurants" text="Restaurants">
+  </outline>
+  <outline title="Local EMS" text="Local EMS">
+  </outline>
+  <outline title="Public Officials" text="Public Officials">
+  </outline>
+  <outline title="Pizza Places" text="Pizza Places">
+  </outline>
+  <outline title="Grocery Stores" text="Grocery Stores">
+  </outline>
+  <outline title="Gas Stations" text="Gas Stations">
+  </outline>
+  <outline title="Superstores" text="Superstores">
+  </outline>
+  <outline title="Attractions" text="Attractions">
+  </outline>
+  <outline title="Museums" text="Museums">
+  </outline>
+  <outline title="Outdoors" text="Outdoors">
+  </outline>
+  <outline title="Theaters" text="Theaters">
+      <outline text="Tiffin Drive-In" title="Tiffin Drive-In" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinDriveIn/" htmlUrl="https://www.facebook.com/TiffinDriveIn/"/>
+  </outline>
+  <outline title="Cable Companies" text="Cable Companies">
+  </outline>
+  <outline title="Phone Providers" text="Phone Providers">
+  </outline>
+  <outline title="Chiropractors" text="Chiropractors">
+  </outline>
+  <outline title="Fitness Gyms" text="Fitness Gyms">
+  </outline>
+  <outline title="Local Schools" text="Local Schools">
+  </outline>
+  <outline title="City Events" text="City Events">
+  </outline>
+  <outline title="Public Learning" text="Public Learning">
+  </outline>
+  <outline title="Society Clubs" text="Society Clubs">
+  </outline>
+  <outline title="Colleges &#38; Universities" text="Colleges &#38; Universities">
+  </outline>
+  <outline title="Factories" text="Factories">
+  </outline>
+  <outline title="Animal Shelters" text="Animal Shelters">
+      <outline text="Humane Society of Seneca County" title="Humane Society of Seneca County" type="rss" 
+            xmlUrl="https://www.facebook.com/HumaneSocietyofSenecaCounty" htmlUrl="https://www.facebook.com/HumaneSocietyofSenecaCounty"/>
+  </outline>
+  <outline title="Animal Hospitals" text="Animal Hospitals">
+  </outline>
+  <outline title="Hospitals" text="Hospitals">
+  </outline>
+</body>
+</opml>
