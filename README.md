@@ -1,5 +1,5 @@
 # Tiffin-Ohio-News-Feed
-news feeds aggregator for the town I live in. Filled with a lot of public places, businesses, &amp; officials. 
+news feeds aggregator for the town I live in. Will be filled with a lot of public places, businesses, &amp; officials. 
 
 It works by gathering data from public Facebook Pages and organizing them into different categorical newsfeeds. 
 
