@@ -7,5 +7,5 @@ So anyone that wants to can stay up to date easily with what goes on locally aro
 
 This is to use freely by Importing The OPML Feed Subscriptions file into a free Google Chrome extension called FeedBro.
 
-Click on the subscriptions then the file go to Raw now right click and save the file to your computer and im[prt the OPML into Feedbro.
+Click on the subscriptions then the file go to Raw now right click and save the file to your computer and import the OPML into Feedbro.
 
