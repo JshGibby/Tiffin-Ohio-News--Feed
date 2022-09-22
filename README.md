@@ -1,5 +1,4 @@
 # Tiffin-Ohio-News-Feed
-<br></br>
 This is a news feed aggregator. It will be filled with a lot of resources on public places, businesses, events, community news &amp; officials. 
 
 It works by gathering data from public Facebook Pages and organizing them into different categorical newsfeeds. 
