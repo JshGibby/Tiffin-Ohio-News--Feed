@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Ohio News &#38; Weather" text="Ohio News &#38; Weather">
+      <outline text="Spectrum News 1 Ohio" title="Spectrum News 1 Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/SpectrumNews1OH" htmlUrl="https://www.facebook.com/SpectrumNews1OH"/>
+      <outline text="Ohio News and Weather" title="Ohio News and Weather" type="rss" 
+            xmlUrl="https://www.facebook.com/ohionewsweather/" htmlUrl="https://www.facebook.com/ohionewsweather/"/>
+      <outline text="Ohio Weather Network" title="Ohio Weather Network" type="rss" 
+            xmlUrl="https://www.facebook.com/ohiowxnetwork" htmlUrl="https://www.facebook.com/ohiowxnetwork"/>
+  </outline>
+  <outline title="Health &#38; Help" text="Health &#38; Help">
+      <outline text="CVS Pharmacy" title="CVS Pharmacy" type="rss" 
+            xmlUrl="https://www.facebook.com/CVS-Pharmacy-439240512832929" htmlUrl="https://www.facebook.com/CVS-Pharmacy-439240512832929"/>
+      <outline text="Kidz City Daycare" title="Kidz City Daycare" type="rss" 
+            xmlUrl="https://www.facebook.com/Kidz-City-Daycare-216437052326942" htmlUrl="https://www.facebook.com/Kidz-City-Daycare-216437052326942"/>
+      <outline text="Humane Society of Seneca County" title="Humane Society of Seneca County" type="rss" 
+            xmlUrl="https://www.facebook.com/HumaneSocietyofSenecaCounty" htmlUrl="https://www.facebook.com/HumaneSocietyofSenecaCounty"/>
+      <outline text="Animal Care Center of Tiffin" title="Animal Care Center of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/AnimalCareCenterOfTiffin/" htmlUrl="https://www.facebook.com/AnimalCareCenterOfTiffin/"/>
+      <outline text="VCA Dog and Cat Hospital of Tiffin" title="VCA Dog and Cat Hospital of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/vcadogandcathospitaloftiffin/" htmlUrl="https://www.facebook.com/vcadogandcathospitaloftiffin/"/>
+      <outline text="SOUL Boutique" title="SOUL Boutique" type="rss" 
+            xmlUrl="https://www.facebook.com/soulboutiquetiffin" htmlUrl="https://www.facebook.com/soulboutiquetiffin"/>
+      <outline text="Active Nutrition of Tiffin" title="Active Nutrition of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/activenutritiontiffin" htmlUrl="https://www.facebook.com/activenutritiontiffin"/>
+      <outline text="Natural Health Care Center" title="Natural Health Care Center" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinNHCC/" htmlUrl="https://www.facebook.com/TiffinNHCC/"/>
+      <outline text="HempCo Ohio" title="HempCo Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/HempCoOhio/?ref=page_internal" htmlUrl="https://www.facebook.com/HempCoOhio/?ref=page_internal"/>
+      <outline text="Happy Days Nutrition of Tiffin" title="Happy Days Nutrition of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/HappyDaysNutrition2020/" htmlUrl="https://www.facebook.com/HappyDaysNutrition2020/"/>
+      <outline text="Gem Yoga &#38; Life Enrichment, LLC" title="Gem Yoga &#38; Life Enrichment, LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/gemyogalife" htmlUrl="https://www.facebook.com/gemyogalife"/>
+      <outline text="CrossFit Tiffin" title="CrossFit Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/CrossfitTiffin/" htmlUrl="https://www.facebook.com/CrossfitTiffin/"/>
+      <outline text="Relevé Tiffin" title="Relevé Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/relevetiffin/" htmlUrl="https://www.facebook.com/relevetiffin/"/>
+      <outline text="Cuadra Pediatric Dentistry" title="Cuadra Pediatric Dentistry" type="rss" 
+            xmlUrl="https://www.facebook.com/CuadraPediatricDentistry/" htmlUrl="https://www.facebook.com/CuadraPediatricDentistry/"/>
+      <outline text="Ohio Hearing Professionals" title="Ohio Hearing Professionals" type="rss" 
+            xmlUrl="https://www.facebook.com/OhioHearingProfessionals/" htmlUrl="https://www.facebook.com/OhioHearingProfessionals/"/>
+      <outline text="Tiffin Eye Center" title="Tiffin Eye Center" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinEyeCenter/" htmlUrl="https://www.facebook.com/TiffinEyeCenter/"/>
+      <outline text="Mercy Health - Tiffin" title="Mercy Health - Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/mercyhealthtiffinhospital/" htmlUrl="https://www.facebook.com/mercyhealthtiffinhospital/"/>
+      <outline text="Seneca County General Health District" title="Seneca County General Health District" type="rss" 
+            xmlUrl="https://www.facebook.com/SCGHD" htmlUrl="https://www.facebook.com/SCGHD"/>
+      <outline text="Seneca County Emergency Management Agency" title="Seneca County Emergency Management Agency" type="rss" 
+            xmlUrl="https://www.facebook.com/senecacountyEMA" htmlUrl="https://www.facebook.com/senecacountyEMA"/>
+      <outline text="Tiffin-Seneca United Way" title="Tiffin-Seneca United Way" type="rss" 
+            xmlUrl="https://www.facebook.com/tsunitedway/" htmlUrl="https://www.facebook.com/tsunitedway/"/>
+      <outline text="First Call For Help" title="First Call For Help" type="rss" 
+            xmlUrl="https://www.facebook.com/FirstCallForHelpTiffin/" htmlUrl="https://www.facebook.com/FirstCallForHelpTiffin/"/>
+      <outline text="Tiffin Crawl" title="Tiffin Crawl" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinCrawl/" htmlUrl="https://www.facebook.com/TiffinCrawl/"/>
+      <outline text="Reclaim It 127" title="Reclaim It 127" type="rss" 
+            xmlUrl="https://www.facebook.com/ReclaimItTiffin/" htmlUrl="https://www.facebook.com/ReclaimItTiffin/"/>
+      <outline text="Tiffin-Seneca Child Care Center" title="Tiffin-Seneca Child Care Center" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinseneca/" htmlUrl="https://www.facebook.com/tiffinseneca/"/>
+      <outline text="The Salvation Army Tiffin Citadel" title="The Salvation Army Tiffin Citadel" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinSA/" htmlUrl="https://www.facebook.com/TiffinSA/"/>
+      <outline text="Brickner Childcare LLC" title="Brickner Childcare LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/BRICKNERCHILDCARELLC" htmlUrl="https://www.facebook.com/BRICKNERCHILDCARELLC"/>
+      <outline text="Seneca County Help Me Grow" title="Seneca County Help Me Grow" type="rss" 
+            xmlUrl="https://www.facebook.com/Seneca-County-Help-Me-Grow-256951621020946/" htmlUrl="https://www.facebook.com/Seneca-County-Help-Me-Grow-256951621020946/"/>
+      <outline text="Seneca Friendship Club" title="Seneca Friendship Club" type="rss" 
+            xmlUrl="https://www.facebook.com/Seneca-Friendship-Club-722170355177532" htmlUrl="https://www.facebook.com/Seneca-Friendship-Club-722170355177532"/>
+  </outline>
+  <outline title="Stores &#38; Services" text="Stores &#38; Services">
+      <outline text="Kuebler Shoes" title="Kuebler Shoes" type="rss" 
+            xmlUrl="https://www.facebook.com/KueblerShoes" htmlUrl="https://www.facebook.com/KueblerShoes"/>
+      <outline text="Erin Henschke Photography" title="Erin Henschke Photography" type="rss" 
+            xmlUrl="https://www.facebook.com/erinhenschkephotography" htmlUrl="https://www.facebook.com/erinhenschkephotography"/>
+      <outline text="MJ Brown Construction Co." title="MJ Brown Construction Co." type="rss" 
+            xmlUrl="https://www.facebook.com/mjbrowncompany/" htmlUrl="https://www.facebook.com/mjbrowncompany/"/>
+      <outline text="Roszman Roofing &#38; Remodeling Inc" title="Roszman Roofing &#38; Remodeling Inc" type="rss" 
+            xmlUrl="https://www.facebook.com/RoszmanRemodeling" htmlUrl="https://www.facebook.com/RoszmanRemodeling"/>
+      <outline text="Harbor Freight" title="Harbor Freight" type="rss" 
+            xmlUrl="https://www.facebook.com/harborfreight" htmlUrl="https://www.facebook.com/harborfreight"/>
+      <outline text="Tiffin Deluxe Services, Inc." title="Tiffin Deluxe Services, Inc." type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-Deluxe-Services-Inc-187224764639556/" htmlUrl="https://www.facebook.com/Tiffin-Deluxe-Services-Inc-187224764639556/"/>
+      <outline text="Great Lakes Ace Hardware" title="Great Lakes Ace Hardware" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinhardware" htmlUrl="https://www.facebook.com/tiffinhardware"/>
+      <outline text="Crane&#39;s Mattress" title="Crane&#39;s Mattress" type="rss" 
+            xmlUrl="https://www.facebook.com/CranesMattressSuperstore" htmlUrl="https://www.facebook.com/CranesMattressSuperstore"/>
+      <outline text="Burns Electric Inc." title="Burns Electric Inc." type="rss" 
+            xmlUrl="https://www.facebook.com/burnstiffin" htmlUrl="https://www.facebook.com/burnstiffin"/>
+      <outline text="JB Roofing Tecta America" title="JB Roofing Tecta America" type="rss" 
+            xmlUrl="https://www.facebook.com/JBRoofingTecta" htmlUrl="https://www.facebook.com/JBRoofingTecta"/>
+      <outline text="Ralph&#39;s Joy of Living" title="Ralph&#39;s Joy of Living" type="rss" 
+            xmlUrl="https://www.facebook.com/ralphsjol/" htmlUrl="https://www.facebook.com/ralphsjol/"/>
+      <outline text="Coppus Motors" title="Coppus Motors" type="rss" 
+            xmlUrl="https://www.facebook.com/CoppusMotors" htmlUrl="https://www.facebook.com/CoppusMotors"/>
+      <outline text="Showplace Rent to Own" title="Showplace Rent to Own" type="rss" 
+            xmlUrl="https://www.facebook.com/ShowplaceTiffinOhio/" htmlUrl="https://www.facebook.com/ShowplaceTiffinOhio/"/>
+      <outline text="Steinmetz Signs &#38; Graphic Ink" title="Steinmetz Signs &#38; Graphic Ink" type="rss" 
+            xmlUrl="https://www.facebook.com/SSGInk/" htmlUrl="https://www.facebook.com/SSGInk/"/>
+      <outline text="SameDay Signs" title="SameDay Signs" type="rss" 
+            xmlUrl="https://www.facebook.com/SameDaySignsTiffin/" htmlUrl="https://www.facebook.com/SameDaySignsTiffin/"/>
+      <outline text="Red Raven Tattoo &#38; Art Gallery" title="Red Raven Tattoo &#38; Art Gallery" type="rss" 
+            xmlUrl="https://www.facebook.com/redraventattoo/" htmlUrl="https://www.facebook.com/redraventattoo/"/>
+      <outline text="INK ELEMENT STUDIO" title="INK ELEMENT STUDIO" type="rss" 
+            xmlUrl="https://www.facebook.com/InkElementStudio" htmlUrl="https://www.facebook.com/InkElementStudio"/>
+      <outline text="Codie Sours Tattoos" title="Codie Sours Tattoos" type="rss" 
+            xmlUrl="https://www.facebook.com/codiesourstattoos" htmlUrl="https://www.facebook.com/codiesourstattoos"/>
+      <outline text="Glass N More Store Tiffin" title="Glass N More Store Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/GlassNMoreStoreTiffin" htmlUrl="https://www.facebook.com/GlassNMoreStoreTiffin"/>
+      <outline text="Butt Hut of America" title="Butt Hut of America" type="rss" 
+            xmlUrl="https://www.facebook.com/ButtHutofAmerica" htmlUrl="https://www.facebook.com/ButtHutofAmerica"/>
+      <outline text="The ATTIC Tiffin" title="The ATTIC Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/TheAtticTiffin/" htmlUrl="https://www.facebook.com/TheAtticTiffin/"/>
+      <outline text="Vapor Emporia - Tiffin, Ohio" title="Vapor Emporia - Tiffin, Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/vaporemporiatiffin/" htmlUrl="https://www.facebook.com/vaporemporiatiffin/"/>
+      <outline text="Bair Bros." title="Bair Bros." type="rss" 
+            xmlUrl="https://www.facebook.com/BairBrosInc/" htmlUrl="https://www.facebook.com/BairBrosInc/"/>
+      <outline text="The Beanstalk, LLC" title="The Beanstalk, LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/thebeanstalkllc" htmlUrl="https://www.facebook.com/thebeanstalkllc"/>
+      <outline text="Forte Music" title="Forte Music" type="rss" 
+            xmlUrl="https://www.facebook.com/Forte-Music-10150130293270394" htmlUrl="https://www.facebook.com/Forte-Music-10150130293270394"/>
+      <outline text="22 mrkt" title="22 mrkt" type="rss" 
+            xmlUrl="https://www.facebook.com/22mrkt" htmlUrl="https://www.facebook.com/22mrkt"/>
+      <outline text="Heavenly Creations" title="Heavenly Creations" type="rss" 
+            xmlUrl="https://www.facebook.com/Heavenly-Creations-189587791153068" htmlUrl="https://www.facebook.com/Heavenly-Creations-189587791153068"/>
+      <outline text="Kroger" title="Kroger" type="rss" 
+            xmlUrl="https://www.facebook.com/KrogerTiffinOH/" htmlUrl="https://www.facebook.com/KrogerTiffinOH/"/>
+      <outline text="ALDI USA" title="ALDI USA" type="rss" 
+            xmlUrl="https://www.facebook.com/ALDIUSATiffinOH" htmlUrl="https://www.facebook.com/ALDIUSATiffinOH"/>
+      <outline text="Tiffin Pool Center" title="Tiffin Pool Center" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinPoolCenter/" htmlUrl="https://www.facebook.com/TiffinPoolCenter/"/>
+      <outline text="Culligan Water" title="Culligan Water" type="rss" 
+            xmlUrl="https://www.facebook.com/culliganwatertiffin/" htmlUrl="https://www.facebook.com/culliganwatertiffin/"/>
+      <outline text="Family Dollar" title="Family Dollar" type="rss" 
+            xmlUrl="https://www.facebook.com/Family-Dollar-268113560371992" htmlUrl="https://www.facebook.com/Family-Dollar-268113560371992"/>
+      <outline text="Dollar Tree" title="Dollar Tree" type="rss" 
+            xmlUrl="https://www.facebook.com/Dollar-Tree-557957467700758" htmlUrl="https://www.facebook.com/Dollar-Tree-557957467700758"/>
+      <outline text="Walmart Tiffin" title="Walmart Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/Walmart1622/" htmlUrl="https://www.facebook.com/Walmart1622/"/>
+      <outline text="BILGER&#39;S LAWN &#38; LANDSCAPE LLC" title="BILGER&#39;S LAWN &#38; LANDSCAPE LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100063684036514" htmlUrl="https://www.facebook.com/profile.php?id=100063684036514"/>
+      <outline text="The Anthony Douglas Company" title="The Anthony Douglas Company" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100067777877045" htmlUrl="https://www.facebook.com/profile.php?id=100067777877045"/>
+      <outline text="Cycling Without Age Seneca County" title="Cycling Without Age Seneca County" type="rss" 
+            xmlUrl="https://www.facebook.com/CyclingWithoutAgeSenecaCounty/" htmlUrl="https://www.facebook.com/CyclingWithoutAgeSenecaCounty/"/>
+      <outline text="Midwest-Runners LLC." title="Midwest-Runners LLC." type="rss" 
+            xmlUrl="https://www.facebook.com/midwest.runners.tiffin/" htmlUrl="https://www.facebook.com/midwest.runners.tiffin/"/>
+      <outline text="Schreiner Tree Service LLC" title="Schreiner Tree Service LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/schreinertree/" htmlUrl="https://www.facebook.com/schreinertree/"/>
+      <outline text="Rural King Supply" title="Rural King Supply" type="rss" 
+            xmlUrl="https://www.facebook.com/RuralKingTiffin/" htmlUrl="https://www.facebook.com/RuralKingTiffin/"/>
+      <outline text="Big Lots" title="Big Lots" type="rss" 
+            xmlUrl="https://www.facebook.com/Big-Lots-165178113493318" htmlUrl="https://www.facebook.com/Big-Lots-165178113493318"/>
+      <outline text="Tiffin Metal Products" title="Tiffin Metal Products" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinMetalProducts" htmlUrl="https://www.facebook.com/TiffinMetalProducts"/>
+      <outline text="Baumann Auto Group" title="Baumann Auto Group" type="rss" 
+            xmlUrl="https://www.facebook.com/BaumannAutoGroup" htmlUrl="https://www.facebook.com/BaumannAutoGroup"/>
+      <outline text="Ballreich&#39;s Potato Chips" title="Ballreich&#39;s Potato Chips" type="rss" 
+            xmlUrl="https://www.facebook.com/BallreichsPotatoChips/" htmlUrl="https://www.facebook.com/BallreichsPotatoChips/"/>
+      <outline text="TPC Food Service, Inc." title="TPC Food Service, Inc." type="rss" 
+            xmlUrl="https://www.facebook.com/TPCFoodService" htmlUrl="https://www.facebook.com/TPCFoodService"/>
+      <outline text="Circle H Tire" title="Circle H Tire" type="rss" 
+            xmlUrl="https://www.facebook.com/Circle-H-Tire-102596032310910/" htmlUrl="https://www.facebook.com/Circle-H-Tire-102596032310910/"/>
+      <outline text="The Point Drive Thru" title="The Point Drive Thru" type="rss" 
+            xmlUrl="https://www.facebook.com/Thepointdrivethru/" htmlUrl="https://www.facebook.com/Thepointdrivethru/"/>
+      <outline text="Fitch&#39;s Auto Repair" title="Fitch&#39;s Auto Repair" type="rss" 
+            xmlUrl="https://www.facebook.com/Fitchs-Auto-Repair-279189218917470/" htmlUrl="https://www.facebook.com/Fitchs-Auto-Repair-279189218917470/"/>
+      <outline text="Kear&#39;s Speed Shop" title="Kear&#39;s Speed Shop" type="rss" 
+            xmlUrl="https://www.facebook.com/kearsspeedshop" htmlUrl="https://www.facebook.com/kearsspeedshop"/>
+      <outline text="B &#38; B Foodmart" title="B &#38; B Foodmart" type="rss" 
+            xmlUrl="https://www.facebook.com/bbfoodmarttiffin" htmlUrl="https://www.facebook.com/bbfoodmarttiffin"/>
+      <outline text="Nap Photos" title="Nap Photos" type="rss" 
+            xmlUrl="https://www.facebook.com/nap.photos.3" htmlUrl="https://www.facebook.com/nap.photos.3"/>
+      <outline text="Dannette Kelbley Photography" title="Dannette Kelbley Photography" type="rss" 
+            xmlUrl="https://www.facebook.com/Dannettekelbleyphotography/?ref=page_internal" htmlUrl="https://www.facebook.com/Dannettekelbleyphotography/?ref=page_internal"/>
+      <outline text="Shop Diamonds in the Ruff Kesler and Co" title="Shop Diamonds in the Ruff Kesler and Co" type="rss" 
+            xmlUrl="https://www.facebook.com/keslerandco/" htmlUrl="https://www.facebook.com/keslerandco/"/>
+      <outline text="Threads" title="Threads" type="rss" 
+            xmlUrl="https://www.facebook.com/ThreadsTiffin" htmlUrl="https://www.facebook.com/ThreadsTiffin"/>
+      <outline text="Shoe Sensation" title="Shoe Sensation" type="rss" 
+            xmlUrl="https://www.facebook.com/shoesensation824" htmlUrl="https://www.facebook.com/shoesensation824"/>
+      <outline text="Washington Street Outfitters" title="Washington Street Outfitters" type="rss" 
+            xmlUrl="https://www.facebook.com/washingtonstreetoutfitters" htmlUrl="https://www.facebook.com/washingtonstreetoutfitters"/>
+      <outline text="Pit Stop" title="Pit Stop" type="rss" 
+            xmlUrl="https://www.facebook.com/PitStopTiffinUSA/" htmlUrl="https://www.facebook.com/PitStopTiffinUSA/"/>
+      <outline text="Locks By Cactus Hair Salon" title="Locks By Cactus Hair Salon" type="rss" 
+            xmlUrl="https://www.facebook.com/locksbycactushairsalon/" htmlUrl="https://www.facebook.com/locksbycactushairsalon/"/>
+      <outline text="Relax &#38; Revive Salon and Spa, LLC" title="Relax &#38; Revive Salon and Spa, LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/relaxandreviveohio/" htmlUrl="https://www.facebook.com/relaxandreviveohio/"/>
+      <outline text="June Aesthetics LLC" title="June Aesthetics LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/June-Aesthetics-LLC-113050181163511/" htmlUrl="https://www.facebook.com/June-Aesthetics-LLC-113050181163511/"/>
+      <outline text="Complexions Day Spa LLC" title="Complexions Day Spa LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100049697275059" htmlUrl="https://www.facebook.com/profile.php?id=100049697275059"/>
+      <outline text="Kroger Money Services" title="Kroger Money Services" type="rss" 
+            xmlUrl="https://www.facebook.com/KrogerMoneyServicesTiffin/" htmlUrl="https://www.facebook.com/KrogerMoneyServicesTiffin/"/>
+      <outline text="Winterberry Farm" title="Winterberry Farm" type="rss" 
+            xmlUrl="https://www.facebook.com/TheWinterberryFarm/" htmlUrl="https://www.facebook.com/TheWinterberryFarm/"/>
+  </outline>
+  <outline title="Housing &#38; Apartments" text="Housing &#38; Apartments">
+      <outline text="Autumnwood Care Center" title="Autumnwood Care Center" type="rss" 
+            xmlUrl="https://www.facebook.com/AutumnwoodCareCenter/" htmlUrl="https://www.facebook.com/AutumnwoodCareCenter/"/>
+      <outline text="Randall Residence of Tiffin" title="Randall Residence of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/RRTiffin/" htmlUrl="https://www.facebook.com/RRTiffin/"/>
+      <outline text="The Willows at Tiffin" title="The Willows at Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/WillowsTiffin/" htmlUrl="https://www.facebook.com/WillowsTiffin/"/>
+      <outline text="Holiday Inn Express Tiffin" title="Holiday Inn Express Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/HolidayInnExpressTiffin"/>
+      <outline text="R Investments LLC" title="R Investments LLC" type="rss" 
+            xmlUrl="https://www.facebook.com/rinvestmentsllc" htmlUrl="https://www.facebook.com/rinvestmentsllc"/>
+      <outline text="CXP Property Management" title="CXP Property Management" type="rss" 
+            xmlUrl="https://www.facebook.com/CXPProperties" htmlUrl="https://www.facebook.com/CXPProperties"/>
+      <outline text="Tiffin Pointe" title="Tiffin Pointe" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinPointe/?ref=page_internal" htmlUrl="https://www.facebook.com/TiffinPointe/?ref=page_internal"/>
+      <outline text="Angie Bonnell - Generations Realty" title="Angie Bonnell - Generations Realty" type="rss" 
+            xmlUrl="https://www.facebook.com/AngieBonnellGenerations/" htmlUrl="https://www.facebook.com/AngieBonnellGenerations/"/>
+      <outline text="Sara Riesen CENTURY 21 Bolte Real Estate" title="Sara Riesen CENTURY 21 Bolte Real Estate" type="rss" 
+            xmlUrl="https://www.facebook.com/sarariesenbolterealestate"/>
+      <outline text="University Center Apartments" title="University Center Apartments" type="rss" 
+            xmlUrl="https://www.facebook.com/UniversityCenterLiving/" htmlUrl="https://www.facebook.com/UniversityCenterLiving/"/>
+  </outline>
+  <outline title="Food &#38; Drinks" text="Food &#38; Drinks">
+      <outline text="Pioneer Mill of Tiffin" title="Pioneer Mill of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/pioneermill/" htmlUrl="https://www.facebook.com/pioneermill/"/>
+      <outline text="McDonald&#39;s" title="McDonald&#39;s" type="rss" 
+            xmlUrl="https://www.facebook.com/McDonalds1714WStateRoute18" htmlUrl="https://www.facebook.com/McDonalds1714WStateRoute18"/>
+      <outline text="Arby&#39;s" title="Arby&#39;s" type="rss" 
+            xmlUrl="https://www.facebook.com/Arbys-200091830017688" htmlUrl="https://www.facebook.com/Arbys-200091830017688"/>
+      <outline text="VC Tiffin Cameo" title="VC Tiffin Cameo" type="rss" 
+            xmlUrl="https://www.facebook.com/VCTiffinCameo" htmlUrl="https://www.facebook.com/VCTiffinCameo"/>
+      <outline text="Carmie&#39;s BBQ &#38; Grill" title="Carmie&#39;s BBQ &#38; Grill" type="rss" 
+            xmlUrl="https://www.facebook.com/CarmiesGrill/" htmlUrl="https://www.facebook.com/CarmiesGrill/"/>
+      <outline text="JT&#39;S Bagel Bar" title="JT&#39;S Bagel Bar" type="rss" 
+            xmlUrl="https://www.facebook.com/jtsbagelbar" htmlUrl="https://www.facebook.com/jtsbagelbar"/>
+      <outline text="Benchwarmers Restaurant and Delivery" title="Benchwarmers Restaurant and Delivery" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinbenchwarmers" htmlUrl="https://www.facebook.com/tiffinbenchwarmers"/>
+      <outline text="Bob Evans" title="Bob Evans" type="rss" 
+            xmlUrl="https://www.facebook.com/BobEvansTiffin" htmlUrl="https://www.facebook.com/BobEvansTiffin"/>
+      <outline text="Buffalo Wild Wings" title="Buffalo Wild Wings" type="rss" 
+            xmlUrl="https://www.facebook.com/BWWTiffinOH" htmlUrl="https://www.facebook.com/BWWTiffinOH"/>
+      <outline text="KFC" title="KFC" type="rss" 
+            xmlUrl="https://www.facebook.com/KFC-1650874584971450" htmlUrl="https://www.facebook.com/KFC-1650874584971450"/>
+      <outline text="Burger King" title="Burger King" type="rss" 
+            xmlUrl="https://www.facebook.com/BurgerKing683WestMarketSt" htmlUrl="https://www.facebook.com/BurgerKing683WestMarketSt"/>
+      <outline text="IronWood Steakhouse" title="IronWood Steakhouse" type="rss" 
+            xmlUrl="https://www.facebook.com/ironwoodtiffin/" htmlUrl="https://www.facebook.com/ironwoodtiffin/"/>
+      <outline text="Jolly&#39;s Drive-In" title="Jolly&#39;s Drive-In" type="rss" 
+            xmlUrl="https://www.facebook.com/JollysDriveIn" htmlUrl="https://www.facebook.com/JollysDriveIn"/>
+      <outline text="Parkhurst Dining at Heidelberg" title="Parkhurst Dining at Heidelberg" type="rss" 
+            xmlUrl="https://www.facebook.com/HeidelbergUniversityDining/" htmlUrl="https://www.facebook.com/HeidelbergUniversityDining/"/>
+      <outline text="Chipotle Mexican Grill" title="Chipotle Mexican Grill" type="rss" 
+            xmlUrl="https://www.facebook.com/ChipotleTiffin" htmlUrl="https://www.facebook.com/ChipotleTiffin"/>
+      <outline text="Hunan King" title="Hunan King" type="rss" 
+            xmlUrl="https://www.facebook.com/hunankingtiffin" htmlUrl="https://www.facebook.com/hunankingtiffin"/>
+      <outline text="Domino&#39;s Pizza Tiffin" title="Domino&#39;s Pizza Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/dominospizzatiffin" htmlUrl="https://www.facebook.com/dominospizzatiffin"/>
+      <outline text="Fort Ball Pizza Palace" title="Fort Ball Pizza Palace" type="rss" 
+            xmlUrl="https://www.facebook.com/FortBallPizzaPalace" htmlUrl="https://www.facebook.com/FortBallPizzaPalace"/>
+      <outline text="Jac &#38; Do&#39;s Pizza- Tiffin" title="Jac &#38; Do&#39;s Pizza- Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/jacandospizzatiffin" htmlUrl="https://www.facebook.com/jacandospizzatiffin"/>
+      <outline text="Heavenly Pizza-Tiffin Ohio" title="Heavenly Pizza-Tiffin Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/HeavenlyPizzaTiffin" htmlUrl="https://www.facebook.com/HeavenlyPizzaTiffin" maxItems="2000"/>
+      <outline text="Jimmy John&#39;s" title="Jimmy John&#39;s" type="rss" 
+            xmlUrl="https://www.facebook.com/jimmyjohns" htmlUrl="https://www.facebook.com/jimmyjohns"/>
+      <outline text="Big Dipper Ice Cream" title="Big Dipper Ice Cream" type="rss" 
+            xmlUrl="https://www.facebook.com/BigDipperTiffinOhio/" htmlUrl="https://www.facebook.com/BigDipperTiffinOhio/"/>
+      <outline text="Little Hugo&#39;s" title="Little Hugo&#39;s" type="rss" 
+            xmlUrl="https://www.facebook.com/LittleHugos/" htmlUrl="https://www.facebook.com/LittleHugos/"/>
+      <outline text="FroZone Tiffin" title="FroZone Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/frozonetiffin" htmlUrl="https://www.facebook.com/frozonetiffin"/>
+      <outline text="Put-N-Pita" title="Put-N-Pita" type="rss" 
+            xmlUrl="https://www.facebook.com/PutNPitaTiffin/?ref=page_internal" htmlUrl="https://www.facebook.com/PutNPitaTiffin/?ref=page_internal"/>
+      <outline text="The Pink Lady" title="The Pink Lady" type="rss" 
+            xmlUrl="https://www.facebook.com/thepinkladytiffin/"/>
+      <outline text="Sabaidee Tiffin" title="Sabaidee Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/sabaideetiffin" htmlUrl="https://www.facebook.com/sabaideetiffin"/>
+      <outline text="Bailiwicks Coffee Company" title="Bailiwicks Coffee Company" type="rss" 
+            xmlUrl="https://www.facebook.com/Bailiwicks" htmlUrl="https://www.facebook.com/Bailiwicks"/>
+      <outline text="CASA Express" title="CASA Express" type="rss" 
+            xmlUrl="https://www.facebook.com/CASA-Express-104929438065076" htmlUrl="https://www.facebook.com/CASA-Express-104929438065076"/>
+      <outline text="The Empire" title="The Empire" type="rss" 
+            xmlUrl="https://www.facebook.com/EmpireAt138" htmlUrl="https://www.facebook.com/EmpireAt138"/>
+      <outline text="MST PUB Tiffin" title="MST PUB Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/mstpubtiffin" htmlUrl="https://www.facebook.com/mstpubtiffin"/>
+      <outline text="Bear&#39;s Den Tavern" title="Bear&#39;s Den Tavern" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100043147222543" htmlUrl="https://www.facebook.com/profile.php?id=100043147222543"/>
+      <outline text="Mcgowan&#39;s Tavern" title="Mcgowan&#39;s Tavern" type="rss" 
+            xmlUrl="https://www.facebook.com/McgowansTavern/" htmlUrl="https://www.facebook.com/McgowansTavern/"/>
+      <outline text="Stiney&#39;s Tavern" title="Stiney&#39;s Tavern" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100063557681566" htmlUrl="https://www.facebook.com/profile.php?id=100063557681566"/>
+      <outline text="Clover Club" title="Clover Club" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100063522884072" htmlUrl="https://www.facebook.com/profile.php?id=100063522884072"/>
+      <outline text="The Renaissance of Tiffin" title="The Renaissance of Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/therenaissanceoftiffin" htmlUrl="https://www.facebook.com/therenaissanceoftiffin"/>
+  </outline>
+  <outline title="Churches" text="Churches">
+      <outline text="God&#39;s Lighthouse Tiffin, Oh" title="God&#39;s Lighthouse Tiffin, Oh" type="rss" 
+            xmlUrl="https://www.facebook.com/Gods-Lighthouse-Tiffin-Oh-106450560874733/" htmlUrl="https://www.facebook.com/Gods-Lighthouse-Tiffin-Oh-106450560874733/"/>
+      <outline text="Tiffin Church of the Nazarene" title="Tiffin Church of the Nazarene" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinnaz/" htmlUrl="https://www.facebook.com/tiffinnaz/"/>
+      <outline text="First Lutheran Church Tiffin" title="First Lutheran Church Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/firstlutherantiffin/" htmlUrl="https://www.facebook.com/firstlutherantiffin/"/>
+      <outline text="Grace Baptist Tiffin" title="Grace Baptist Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/GraceBaptistTiffin" htmlUrl="https://www.facebook.com/GraceBaptistTiffin"/>
+      <outline text="Tiffin Harmony Church" title="Tiffin Harmony Church" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinharmony/" htmlUrl="https://www.facebook.com/tiffinharmony/"/>
+      <outline text="Revive Ohio :: Seneca County" title="Revive Ohio :: Seneca County" type="rss" 
+            xmlUrl="https://www.facebook.com/reviveOHSenecaCounty/" htmlUrl="https://www.facebook.com/reviveOHSenecaCounty/"/>
+      <outline text="St. Joseph Catholic Church, Tiffin, Ohio" title="St. Joseph Catholic Church, Tiffin, Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/St-Joseph-Catholic-Church-Tiffin-Ohio-104516551196880/" htmlUrl="https://www.facebook.com/St-Joseph-Catholic-Church-Tiffin-Ohio-104516551196880/"/>
+      <outline text="A Little Faith Ministries" title="A Little Faith Ministries" type="rss" 
+            xmlUrl="https://www.facebook.com/alittlefaithministries/" htmlUrl="https://www.facebook.com/alittlefaithministries/"/>
+  </outline>
+  <outline title="Education" text="Education">
+      <outline text="Tiffin Dance Project" title="Tiffin Dance Project" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffindanceproject" htmlUrl="https://www.facebook.com/tiffindanceproject"/>
+      <outline text="Franciscan Earth Literacy Center (FELC)" title="Franciscan Earth Literacy Center (FELC)" type="rss" 
+            xmlUrl="https://www.facebook.com/FELCTiffin/" htmlUrl="https://www.facebook.com/FELCTiffin/"/>
+      <outline text="Tiffin-Seneca Public Library" title="Tiffin-Seneca Public Library" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinsenecalibrary/" htmlUrl="https://www.facebook.com/tiffinsenecalibrary/"/>
+      <outline text="Vanguard-Sentinel Career and Technology Centers" title="Vanguard-Sentinel Career and Technology Centers" type="rss" 
+            xmlUrl="https://www.facebook.com/VSCTC" htmlUrl="https://www.facebook.com/VSCTC"/>
+      <outline text="Heidelberg University Residence Life" title="Heidelberg University Residence Life" type="rss" 
+            xmlUrl="https://www.facebook.com/bergresidencelife" htmlUrl="https://www.facebook.com/bergresidencelife"/>
+      <outline text="Heidelberg University" title="Heidelberg University" type="rss" 
+            xmlUrl="https://www.facebook.com/HeidelbergUniversity" htmlUrl="https://www.facebook.com/HeidelbergUniversity"/>
+      <outline text="Tiffin University" title="Tiffin University" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinU" htmlUrl="https://www.facebook.com/TiffinU"/>
+      <outline text="Tiffin Academy of Hair Design" title="Tiffin Academy of Hair Design" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinacademy/" htmlUrl="https://www.facebook.com/tiffinacademy/"/>
+      <outline text="Calvert Catholic Schools" title="Calvert Catholic Schools" type="rss" 
+            xmlUrl="https://www.facebook.com/CalvertCatholic" htmlUrl="https://www.facebook.com/CalvertCatholic"/>
+      <outline text="Calvert Alumni &#38; Friends Association" title="Calvert Alumni &#38; Friends Association" type="rss" 
+            xmlUrl="https://www.facebook.com/groups/calvertalumnifriends" htmlUrl="https://www.facebook.com/groups/calvertalumnifriends"/>
+      <outline text="Bridges Preparatory Academy" title="Bridges Preparatory Academy" type="rss" 
+            xmlUrl="https://www.facebook.com/BRIDGESTiffin/" htmlUrl="https://www.facebook.com/BRIDGESTiffin/"/>
+      <outline text="Lincoln Pre-Kindergarten" title="Lincoln Pre-Kindergarten" type="rss" 
+            xmlUrl="https://www.facebook.com/LincolnPreK/" htmlUrl="https://www.facebook.com/LincolnPreK/"/>
+      <outline text="Tiffin Columbian Alumni Association" title="Tiffin Columbian Alumni Association" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-Columbian-Alumni-Association-289526638023/" htmlUrl="https://www.facebook.com/Tiffin-Columbian-Alumni-Association-289526638023/"/>
+      <outline text="Tiffin City Schools" title="Tiffin City Schools" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinCitySchools" htmlUrl="https://www.facebook.com/TiffinCitySchools"/>
+  </outline>
+  <outline title="The News" text="The News">
+      <outline text="Seneca County JFS" title="Seneca County JFS" type="rss" 
+            xmlUrl="https://www.facebook.com/SenecaCoJFS" htmlUrl="https://www.facebook.com/SenecaCoJFS"/>
+      <outline text="Tiffin Park &#38; Recreation" title="Tiffin Park &#38; Recreation" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinParks" htmlUrl="https://www.facebook.com/TiffinParks"/>
+      <outline text="Seneca Parks" title="Seneca Parks" type="rss" 
+            xmlUrl="https://www.facebook.com/SenecaCountyParks/" htmlUrl="https://www.facebook.com/SenecaCountyParks/"/>
+      <outline text="Heidelberg University Band Groupies" title="Heidelberg University Band Groupies" type="rss" 
+            xmlUrl="https://www.facebook.com/Heidelberg-University-Band-Groupies-1614741788632005/" htmlUrl="https://www.facebook.com/Heidelberg-University-Band-Groupies-1614741788632005/"/>
+      <outline text="Tiffin University Music Department" title="Tiffin University Music Department" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinMusic/" htmlUrl="https://www.facebook.com/TiffinMusic/"/>
+      <outline text="Tiffin Youth Cheerleading" title="Tiffin Youth Cheerleading" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinYouthCheerleading" htmlUrl="https://www.facebook.com/TiffinYouthCheerleading"/>
+      <outline text="Seneca County Little League" title="Seneca County Little League" type="rss" 
+            xmlUrl="https://www.facebook.com/SCLLBaseball/" htmlUrl="https://www.facebook.com/SCLLBaseball/"/>
+      <outline text="Tiffin Youth Football" title="Tiffin Youth Football" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinyouthfootball/" htmlUrl="https://www.facebook.com/tiffinyouthfootball/"/>
+      <outline text="Heidelberg University Volleyball" title="Heidelberg University Volleyball" type="rss" 
+            xmlUrl="https://www.facebook.com/BergVolleyball/" htmlUrl="https://www.facebook.com/BergVolleyball/"/>
+      <outline text="Tiffin Dragons Athletics" title="Tiffin Dragons Athletics" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinDragonsAthletics" htmlUrl="https://www.facebook.com/TiffinDragonsAthletics"/>
+      <outline text="Tiffin Calvert Track &#38; Field" title="Tiffin Calvert Track &#38; Field" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-Calvert-Track-Field-110983890456405" htmlUrl="https://www.facebook.com/Tiffin-Calvert-Track-Field-110983890456405"/>
+      <outline text="Leadership Seneca County" title="Leadership Seneca County" type="rss" 
+            xmlUrl="https://www.facebook.com/LeadershipSeneca/" htmlUrl="https://www.facebook.com/LeadershipSeneca/"/>
+      <outline text="Tiffin Community Reinvestment Group" title="Tiffin Community Reinvestment Group" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinCommunityReinvestmentGroup/" htmlUrl="https://www.facebook.com/TiffinCommunityReinvestmentGroup/"/>
+      <outline text="Seneca County Young Professionals" title="Seneca County Young Professionals" type="rss" 
+            xmlUrl="https://www.facebook.com/senecayoungprofessionals/" htmlUrl="https://www.facebook.com/senecayoungprofessionals/"/>
+      <outline text="Scanner Media" title="Scanner Media" type="rss" 
+            xmlUrl="https://www.facebook.com/scannermedia.net/" htmlUrl="https://www.facebook.com/scannermedia.net/"/>
+      <outline text="Seneca County area upcoming events" title="Seneca County area upcoming events" type="rss" 
+            xmlUrl="https://www.facebook.com/groups/193959787394816/" htmlUrl="https://www.facebook.com/groups/193959787394816/"/>
+      <outline text="TiffinOhio.org" title="TiffinOhio.org" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinohio" htmlUrl="https://www.facebook.com/tiffinohio"/>
+      <outline text="Tiffin East Green Concert Series" title="Tiffin East Green Concert Series" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinEastGreen" htmlUrl="https://www.facebook.com/TiffinEastGreen"/>
+      <outline text="Bill Reineke" title="Bill Reineke" type="rss" 
+            xmlUrl="https://www.facebook.com/bill.reineke.14" htmlUrl="https://www.facebook.com/bill.reineke.14"/>
+      <outline text="Commissioner Shuff" title="Commissioner Shuff" type="rss" 
+            xmlUrl="https://www.facebook.com/CommissionerShuff" htmlUrl="https://www.facebook.com/CommissionerShuff"/>
+      <outline text="Tiffin Ohio Mayor - Dawn M. Iannantuono" title="Tiffin Ohio Mayor - Dawn M. Iannantuono" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinMayor" htmlUrl="https://www.facebook.com/TiffinMayor"/>
+      <outline text="Aaron D. Montz" title="Aaron D. Montz" type="rss" 
+            xmlUrl="https://www.facebook.com/aarondmontz" htmlUrl="https://www.facebook.com/aarondmontz"/>
+      <outline text="Seneca County Drug Task Force / METRICH Enforcement Unit" title="Seneca County Drug Task Force / METRICH Enforcement Unit" type="rss" 
+            xmlUrl="https://www.facebook.com/scdtfmetrich" htmlUrl="https://www.facebook.com/scdtfmetrich"/>
+      <outline text="Seneca County Firefighter&#39;s Association" title="Seneca County Firefighter&#39;s Association" type="rss" 
+            xmlUrl="https://www.facebook.com/Seneca-County-Firefighters-Association-307250526645176/" htmlUrl="https://www.facebook.com/Seneca-County-Firefighters-Association-307250526645176/"/>
+      <outline text="Seneca County EMS" title="Seneca County EMS" type="rss" 
+            xmlUrl="https://www.facebook.com/sencoems/" htmlUrl="https://www.facebook.com/sencoems/"/>
+      <outline text="Tiffin Fire/Rescue Division" title="Tiffin Fire/Rescue Division" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinfire" htmlUrl="https://www.facebook.com/tiffinfire"/>
+      <outline text="Seneca County Sheriff&#39;s Office" title="Seneca County Sheriff&#39;s Office" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100064670620590" htmlUrl="https://www.facebook.com/profile.php?id=100064670620590"/>
+      <outline text="Tiffin Police Department (Ohio)" title="Tiffin Police Department (Ohio)" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinPD" htmlUrl="https://www.facebook.com/TiffinPD"/>
+      <outline text="Seneca County Scanner" title="Seneca County Scanner" type="rss" 
+            xmlUrl="https://www.facebook.com/groups/115422912494648" htmlUrl="https://www.facebook.com/groups/115422912494648"/>
+      <outline text="Seneca County Fair" title="Seneca County Fair" type="rss" 
+            xmlUrl="https://www.facebook.com/SenecaFair" htmlUrl="https://www.facebook.com/SenecaFair"/>
+      <outline text="Tiffin Seneca Heritage Festival" title="Tiffin Seneca Heritage Festival" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinSenecaHeritageFestival/" htmlUrl="https://www.facebook.com/TiffinSenecaHeritageFestival/"/>
+      <outline text="Tiffin Flea Market" title="Tiffin Flea Market" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinfleamarket/" htmlUrl="https://www.facebook.com/tiffinfleamarket/"/>
+      <outline text="Tiffin Seneca Farmers Market" title="Tiffin Seneca Farmers Market" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinsenecafarmersmarket" htmlUrl="https://www.facebook.com/tiffinsenecafarmersmarket"/>
+      <outline text="Tiffin Strong" title="Tiffin Strong" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinStrong/" htmlUrl="https://www.facebook.com/TiffinStrong/"/>
+      <outline text="City of Tiffin Government" title="City of Tiffin Government" type="rss" 
+            xmlUrl="https://www.facebook.com/CityOfTiffin" htmlUrl="https://www.facebook.com/CityOfTiffin"/>
+      <outline text="Tiffin-Seneca Economic Partnership" title="Tiffin-Seneca Economic Partnership" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinSenecaEconomicPartnership/" htmlUrl="https://www.facebook.com/TiffinSenecaEconomicPartnership/"/>
+      <outline text="Seneca Regional Chamber of Commerce" title="Seneca Regional Chamber of Commerce" type="rss" 
+            xmlUrl="https://www.facebook.com/SenecaRegionalChamber/" htmlUrl="https://www.facebook.com/SenecaRegionalChamber/"/>
+      <outline text="Downtown Tiffin" title="Downtown Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/DowntownTiffinOh/" htmlUrl="https://www.facebook.com/DowntownTiffinOh/"/>
+      <outline text="Seneca County Commissioners" title="Seneca County Commissioners" type="rss" 
+            xmlUrl="https://www.facebook.com/SenecaCountyCommissioners" htmlUrl="https://www.facebook.com/SenecaCountyCommissioners"/>
+      <outline text="Traunero Funeral Home and Crematory" title="Traunero Funeral Home and Crematory" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100057368592840" htmlUrl="https://www.facebook.com/profile.php?id=100057368592840"/>
+      <outline text="Obituaries In Tiffin - Ohio" title="Obituaries In Tiffin - Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/Obituaries.In.Tiffin.Ohio" htmlUrl="https://www.facebook.com/Obituaries.In.Tiffin.Ohio"/>
+      <outline text="TiffinOhio.net" title="TiffinOhio.net" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinOhioNews" htmlUrl="https://www.facebook.com/TiffinOhioNews" maxItems="2000"/>
+      <outline text="The Advertiser-Tribune, Tiffin OH" title="The Advertiser-Tribune, Tiffin OH" type="rss" 
+            xmlUrl="https://www.facebook.com/AdvertiserTribune" htmlUrl="https://www.facebook.com/AdvertiserTribune" scanDelay="1"/>
+  </outline>
+  <outline title="Entertainment" text="Entertainment">
+      <outline text="Tiffin Rotary Club" title="Tiffin Rotary Club" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinRotaryClub" htmlUrl="https://www.facebook.com/TiffinRotaryClub"/>
+      <outline text="Knights of Columbus #608" title="Knights of Columbus #608" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffinkofc/" htmlUrl="https://www.facebook.com/Tiffinkofc/"/>
+      <outline text="The Tiffin Moose - Lodge 846" title="The Tiffin Moose - Lodge 846" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinmoose/" htmlUrl="https://www.facebook.com/tiffinmoose/"/>
+      <outline text="Tiffin Babe Ruth" title="Tiffin Babe Ruth" type="rss" 
+            xmlUrl="https://www.facebook.com/TYSAJuniorDivisionBaseball" htmlUrl="https://www.facebook.com/TYSAJuniorDivisionBaseball"/>
+      <outline text="Blackswamp Volleyball Club" title="Blackswamp Volleyball Club" type="rss" 
+            xmlUrl="https://www.facebook.com/Blackswampsportsacademy" htmlUrl="https://www.facebook.com/Blackswampsportsacademy"/>
+      <outline text="The Ritz Theatre" title="The Ritz Theatre" type="rss" 
+            xmlUrl="https://www.facebook.com/theritztheatre/" htmlUrl="https://www.facebook.com/theritztheatre/"/>
+      <outline text="Tiffin Drive-In" title="Tiffin Drive-In" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinDriveIn/" htmlUrl="https://www.facebook.com/TiffinDriveIn/"/>
+      <outline text="Tiffin Community YMCA" title="Tiffin Community YMCA" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinYMCA/" htmlUrl="https://www.facebook.com/TiffinYMCA/"/>
+      <outline text="Barnes-Deinzer Seneca County Museum Foundation, Inc." title="Barnes-Deinzer Seneca County Museum Foundation, Inc." type="rss" 
+            xmlUrl="https://www.facebook.com/Barnes-Deinzer-Seneca-County-Museum-Foundation-Inc-603533246428261/" htmlUrl="https://www.facebook.com/Barnes-Deinzer-Seneca-County-Museum-Foundation-Inc-603533246428261/"/>
+      <outline text="WTUD Tiffin University Dragon Radio" title="WTUD Tiffin University Dragon Radio" type="rss" 
+            xmlUrl="https://www.facebook.com/tudragonradio/" htmlUrl="https://www.facebook.com/tudragonradio/"/>
+      <outline text="WTTF" title="WTTF" type="rss" 
+            xmlUrl="https://www.facebook.com/WTTF-214692945321531/" htmlUrl="https://www.facebook.com/WTTF-214692945321531/"/>
+      <outline text="Tiffin GameStop" title="Tiffin GameStop" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-GameStop-287022778908238" htmlUrl="https://www.facebook.com/Tiffin-GameStop-287022778908238"/>
+      <outline text="Level Up Tiffin" title="Level Up Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/levelupohio/" htmlUrl="https://www.facebook.com/levelupohio/"/>
+      <outline text="Clinton Heights Golf Course" title="Clinton Heights Golf Course" type="rss" 
+            xmlUrl="https://www.facebook.com/ClintonHeightsGolf" htmlUrl="https://www.facebook.com/ClintonHeightsGolf"/>
+      <outline text="TableTop Tiffin" title="TableTop Tiffin" type="rss" 
+            xmlUrl="https://www.facebook.com/groups/555336129126156/" htmlUrl="https://www.facebook.com/groups/555336129126156/"/>
+      <outline text="Tiffin Pedal Company" title="Tiffin Pedal Company" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-Pedal-Company-1096557167193859/" htmlUrl="https://www.facebook.com/Tiffin-Pedal-Company-1096557167193859/"/>
+      <outline text="T-Town Dj" title="T-Town Dj" type="rss" 
+            xmlUrl="https://www.facebook.com/Ttowndj" htmlUrl="https://www.facebook.com/Ttowndj"/>
+      <outline text="Walnut Grove RV Resort" title="Walnut Grove RV Resort" type="rss" 
+            xmlUrl="https://www.facebook.com/Camp.Walnut.Grove/" htmlUrl="https://www.facebook.com/Camp.Walnut.Grove/"/>
+      <outline text="Haunted Tiffin Ghost Walks by Virgin Alley Press" title="Haunted Tiffin Ghost Walks by Virgin Alley Press" type="rss" 
+            xmlUrl="https://www.facebook.com/tiffinghostwalks" htmlUrl="https://www.facebook.com/tiffinghostwalks"/>
+      <outline text="Tiffin University Art Team" title="Tiffin University Art Team" type="rss" 
+            xmlUrl="https://www.facebook.com/TiffinU.Art.Team" htmlUrl="https://www.facebook.com/TiffinU.Art.Team"/>
+      <outline text="American Civil War Museum of Ohio" title="American Civil War Museum of Ohio" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100046276736563" htmlUrl="https://www.facebook.com/profile.php?id=100046276736563"/>
+      <outline text="Hawkes Crystal" title="Hawkes Crystal" type="rss" 
+            xmlUrl="https://www.facebook.com/HawkesCrystalTiffin/" htmlUrl="https://www.facebook.com/HawkesCrystalTiffin/"/>
+      <outline text="Studio 605 Fine Art" title="Studio 605 Fine Art" type="rss" 
+            xmlUrl="https://www.facebook.com/Studio605FA" htmlUrl="https://www.facebook.com/Studio605FA"/>
+      <outline text="Tiffin Art Guild" title="Tiffin Art Guild" type="rss" 
+            xmlUrl="https://www.facebook.com/profile.php?id=100063657096770" htmlUrl="https://www.facebook.com/profile.php?id=100063657096770"/>
+      <outline text="The Seneca County Museum" title="The Seneca County Museum" type="rss" 
+            xmlUrl="https://www.facebook.com/The-Seneca-County-Museum-104020608487633/" htmlUrl="https://www.facebook.com/The-Seneca-County-Museum-104020608487633/"/>
+      <outline text="Tiffin Historic Trust" title="Tiffin Historic Trust" type="rss" 
+            xmlUrl="https://www.facebook.com/Tiffin-Historic-Trust-303212156371189/" htmlUrl="https://www.facebook.com/Tiffin-Historic-Trust-303212156371189/"/>
+  </outline>
+</body>
+</opml>
